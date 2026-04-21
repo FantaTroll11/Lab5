@@ -1,0 +1,10 @@
+# Ignore specific files
+secret_key.txt
+
+# Ignore all files ending in .log or .jou
+*.log
+*.jou
+
+# Ignore entire directories (folders)
+/temp/
+/Lab5.runs/
